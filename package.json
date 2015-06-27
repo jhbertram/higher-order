@@ -20,5 +20,9 @@
     "jshint-stylish": "^1.0.2",
     "mocha": "^2.2.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/jhbertram/higher-order.git"
+  }
 }
